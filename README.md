@@ -17,19 +17,20 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Papers](#papers)
-  - [2025](#2025)
-  - [2024](#2024)
-  - [2023](#2023)
-  - [2022](#2022)
-  - [2021](#2021)
-- [Surveys and Position Papers](#surveys-and-position-papers)
-  - [2025](#2025-1)
-  - [2024](#2024-1)
-  - [2023](#2023-1)
-- [Frameworks](#frameworks)
-- [Blog Posts](#blog-posts)
+- [Awesome Large Language Model Unlearning](#awesome-large-language-model-unlearning)
+  - [Table of Contents](#table-of-contents)
+  - [Papers](#papers)
+    - [2025](#2025)
+    - [2024](#2024)
+    - [2023](#2023)
+    - [2022](#2022)
+    - [2021](#2021)
+  - [Surveys and Position Papers](#surveys-and-position-papers)
+    - [2025](#2025-1)
+    - [2024](#2024-1)
+    - [2023](#2023-1)
+  - [Frameworks](#frameworks)
+  - [Blog Posts](#blog-posts)
   
 ## Papers
 
@@ -1423,6 +1424,11 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
   - Date: 2025-02
   - Venue: -
   - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/locuslab/open-unlearning)
+- [Machine Unlearning Comparator](https://gnueaj.github.io/Machine-Unlearning-Comparator/)
+  - Author(s): Jaeung Lee, Suhyeon Yu, Yurim Jang, Simon S. Woo, Jaemin Jo
+  - Date: 2025-08
+  - Venue: -
+  - Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gnueaj/Machine-Unlearning-Comparator)
 
 ## Blog Posts
 
