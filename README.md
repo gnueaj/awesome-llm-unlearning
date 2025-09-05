@@ -17,19 +17,20 @@ As of the last commit, there are **261** papers, **13** surveys and position pap
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Papers](#papers)
-  - [2025](#2025)
-  - [2024](#2024)
-  - [2023](#2023)
-  - [2022](#2022)
-  - [2021](#2021)
-- [Surveys and Position Papers](#surveys-and-position-papers)
-  - [2025](#2025-1)
-  - [2024](#2024-1)
-  - [2023](#2023-1)
-- [Frameworks](#frameworks)
-- [Blog Posts](#blog-posts)
+- [Awesome Large Language Model Unlearning](#awesome-large-language-model-unlearning)
+  - [Table of Contents](#table-of-contents)
+  - [Papers](#papers)
+    - [2025](#2025)
+    - [2024](#2024)
+    - [2023](#2023)
+    - [2022](#2022)
+    - [2021](#2021)
+  - [Surveys and Position Papers](#surveys-and-position-papers)
+    - [2025](#2025-1)
+    - [2024](#2024-1)
+    - [2023](#2023-1)
+  - [Frameworks](#frameworks)
+  - [Blog Posts](#blog-posts)
   
 ## Papers
 
